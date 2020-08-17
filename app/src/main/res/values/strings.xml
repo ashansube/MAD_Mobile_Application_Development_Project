@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">View Gig</string>
+    <string name="button2">Gig Title</string>
+    <string name="name1">Creative Programming</string>
+    <string name="button3">Delivery Time</string>
+    <string name="name2">Afternoon (12.00 PM - 9.00 PM)</string>
+    <string name="button4">Your Category</string>
+    <string name="name3">Computer Programming</string>
+    <string name="button5">Contact Details</string>
+    <string name="name4">charukatckherath@gmail.com</string>
+    <string name="button6">Gig Description</string>
+
+    <string name="description1">I will create any kind of computer programs.That means I am suppose to do your programming projects.
+        I can do any kind of Programms with different programming languages.Such as Java, C++, PHP, HTML are  some of those.
+        Before accept your projects.I need to contact with you and discuss about your Project.
+        And you need to supply all the resourses to me.</string>
+
+    <string name="button7">Delivert Information</string>
+
+    <string name="description2">I will send your project througt the app.
+        <b>If there is some douts You can contact me through email.</b>></string>
+    <string name="button8">Pricing Information</string>
+    <string name="description3">I\'m Starting a project from 5$ and It will be changing according to the volumeof your project</string>
+    <string name="button_last">Next Page</string>
+
+</resources>
