@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="5dp "
+    tools:ignore="ExtraText">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        app:srcCompat="@drawable/update_info_navi" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        app:srcCompat="@drawable/propic" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="7dp"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="137dp"
+        android:layout_height="34dp"
+        android:background="@drawable/button1"
+        android:text="@string/button1"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="111dp"
+        android:textColor="#FFFFFF"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="6dp"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/three_dots" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/textview1"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="1dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:id="@+id/f_name"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:padding="8dp"
+        android:hint="@string/edittext"
+        android:background="@drawable/rounded_text"
+        android:textSize="23dp"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/textview2"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="1dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:id="@+id/f_name2"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:padding="8dp"
+        android:hint="@string/edittext2"
+        android:background="@drawable/rounded_text"
+        android:textSize="23dp"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="137dp"
+        android:layout_height="34dp"
+        android:background="@drawable/button1"
+        android:text="@string/button2"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="210dp"
+        android:textColor="#FFFFFF"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

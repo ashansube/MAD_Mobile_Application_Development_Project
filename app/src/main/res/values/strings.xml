@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Update Info</string>
+    <string name="button1">Upload Photo</string>
+    <string name="textview1">First Name</string>
+    <string name="edittext">Charuka</string>
+    <string name="textview2">Second Name</string>
+    <string name="edittext2">Herath</string>
+
+    <string name="button2">Next Page</string>
+</resources>
