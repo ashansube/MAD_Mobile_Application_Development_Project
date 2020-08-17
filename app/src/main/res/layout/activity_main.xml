@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="5dp "
+    tools:ignore="ExtraText">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        app:srcCompat="@drawable/editgig_navi" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        app:srcCompat="@drawable/cplus" />
+
+    <Button
+        android:id="@+id/button_edit"
+        android:layout_width="160dp"
+        android:layout_height="39dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/button1"
+        android:text="@string/button_edit"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="102dp" />
+
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+    <TextView
+        android:id="@+id/edit_title"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/edit_title"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/edit_title_text"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/edit_title_text"
+        android:padding="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/colorPrimary"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+    <TextView
+        android:id="@+id/del_time"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/del_time"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/del_time_text"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/del_time_text"
+        android:padding="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/colorPrimary"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/cat"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/cat"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/cat"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/your_cat"
+        android:padding="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="54dp"
+        android:layout_height="43dp"
+        app:srcCompat="@drawable/ic_sharp_skip_next_24"
+        android:layout_marginLeft="290dp"/>
+
+</LinearLayout>

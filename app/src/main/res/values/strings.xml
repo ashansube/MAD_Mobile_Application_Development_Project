@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Edit Gig</string>
+    <string name="button_edit">Edit Logo</string>
+    <string name="edit_title">Gig Title</string>
+    <string name="edit_title_text">Creative Programming</string>
+    <string name="del_time">Delivery Time</string>
+    <string name="del_time_text">Afternoon (12.00 PM - 9.00 PM)</string>
+    <string name="cat">Your Category</string>
+    <string name="your_cat">Computer Programming</string>
+</resources>
