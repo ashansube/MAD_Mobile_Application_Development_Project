@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BecomeA Seller Page</string>
+    <string name="sell_button">SELL</string>
+    <string name="f_d">Flyer Design</string>
+    <string name="button7">Show More</string>
+    <string name="Button8">Show More</string>
+    <string name="button9">Show More</string>
+    <string name="textview3">Click the green button and become a seller of us</string>
+    <string name="textview4"> Help?</string>
+    <string name="button_bec">Become A Seller</string>
+
+</resources>
