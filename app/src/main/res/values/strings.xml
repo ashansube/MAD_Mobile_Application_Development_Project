@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">View Gig for customer2</string>
+    <string name="text_price">Pricing Information</string>
+    <string name="price_info">My project is starting from 5$. But the price is depending on the volume of the final project.</string>
+    <string name="con">Contact Details</string>
+    <string name="con2">charukatckherath\"gmail.com</string>
+    <string name="button_or">Order</string>
+    <string name="button_call">Call Now</string>
+    <string name="button_mess">Message</string>
+</resources>
