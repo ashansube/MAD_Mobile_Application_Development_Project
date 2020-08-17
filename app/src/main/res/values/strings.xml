@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Update Info2</string>
+    <string name="textview_email">Email</string>
+    <string name="edittext_email">charukatckherath@gmail.com</string>
+    <string name="textview_province">Province</string>
+    <string name="edittext_province">Central Province</string>
+    <string name="textview_mobile">Mobile</string>
+    <string name="edittext_mobile">+94766706432</string>
+    <string name="button_save">Save Info</string>
+</resources>
