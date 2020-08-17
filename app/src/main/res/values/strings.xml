@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">madtest</string>
+
+    <!-- strings for about us page -->
+    <string name="name1">About Us</string>
+    <string name="aboutusdes">Today the use of mobile phones has increased among many people.
+        It has anumber of positive aspects. For example, we use this to facilitate most of our
+        daily activities. While our team was looking for a solution to such problems, we came up
+        with an idea to create something new. That is Online Freelancing Application. Using this
+        we can provide services to customers and also get services from customers. It also allows
+        talented people to spend their talents and earn valuable money</string>
+    <string name="mainp">The Main Purpose</string>
+    <string name="maindes">To improve the interaction between the customers who use this system and
+        to provide a great service to each other.</string>
+
+    <!--contact us page -->
+    <string name="contact1">Contact Us</string>
+    <string name="conname">Name</string>
+    <string name="conusd">Description</string>
+    <string name="sub">Submit</string>
+    <string name="cus">Call Us</string>
+
+    <!-- change password page -->
+    <string name="changepa1">Change Password</string>
+    <string name="oldp">Old Password</string>
+    <string name="newp">New Password</string>
+    <string name="connp">Confirm New Password</string>
+
+    <!-- change password success page -->
+    <string name="cpdesc">Your password has been successfully changed!</string>
+
+    <!-- contact us success page -->
+    <string name="condesc">Message successfully sent!</string>
+
+    <!-- buyer request success page -->
+    <string name="reqdesc">Your request successfully sent!</string>
+
+    <!-- buyer request  page -->
+    <string name="breq">Buyer Request</string>
+    <string name="mail">Your Email</string>
+    <string name="bdes">Buyer Description</string>
+    <string name="CGO">Confirm Getting Order</string>
+
+    <!-- category page -->
+    <string name="gdname">Graphic and Design</string>
+    <string name="Progname">Programming</string>
+    <string name="writ">Writing</string>
+    <string name="dmname">Digital Marketing</string>
+
+    <!-- settings page -->
+    <string name="uname">Username</string>
+    <string name="logoutbt">Log Out</string>
+
+</resources>
