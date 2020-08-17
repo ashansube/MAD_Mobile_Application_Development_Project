@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">OnLine</string>
+    <string name="ordertag">Order Review</string>
+    <string name="addpaymentmethos">Add Payment Method</string>
+    <string name="orderdetails">Order Details</string>
+    <string name="ordersummery">Order Summery</string>
+    <string name="paynow">Pay Now($44)</string>
+    <string name="firstname">First Name</string>
+    <string name="cardnumber">Card Number</string>
+    <string name="lastname">Last Name</string>
+    <string name="paymentsecure">Your Payment Details Secure With Us</string>
+    <string name="cat">Mobile App</string>
+
+
+
+    <string name="working_email">Enter Your Working Email</string>
+
+    <!--Page Labels-->
+    <string name="OrdersToMe">Orders To Me</string>
+    <string name="notification">Notifications</string>
+    <string name="orderRev">Review Order</string>
+    <string name="OrderToBeRec">Order To Be Recieved</string>
+    <string name="updateorder">Update Order</string>
+    <string name="finishorder">Finish Order</string>
+    <string name="finishmassage">State Massage to Customer About Your Delivery</string>
+    <string name="payment">Add Payment Method</string>
+
+    <string name="addfile">Add File</string>
+
+    <string name="credit">Credit or Debit Card</string>
+    <string name="paypay">Paypal</string>
+
+    <string name="order_details">I will design creative mobile app with anlimited revision, 24hr customer support.</string>
+
+    <!--Buton Text-->
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="complete">Complete</string>
+    <string name="deliver">Deliver Order</string>
+    <string name="upload">Upload</string>
+
+    <!-- Descriptions -->
+
+    <string name="order_title">Create Amazing Mobile App For You</string>
+    <string name="text_edit">Hello I need Mobile App For my Phone Shop, Thanks You.</string>
+
+</resources>
