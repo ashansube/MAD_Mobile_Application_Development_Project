@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Edit Gig 2</string>
+    <string name="con_det">Contact Details</string>
+    <string name="edit_con_det">charukatckherath@gmail.com</string>
+    <string name="gig_des">Gig Description</string>
+    <string name="edit_gig_des">I will create any kind of computer programs.......................</string>
+    <string name="del_in">Delivery Information</string>
+    <string name="edit_del_in">I will send your project througt the app...............................</string>
+    <string name="start_price">Starting From 5$.....................................</string>
+    <string name="del_in_edit">Pricing Information</string>
+    <string name="fin_edit">Finish Editing</string>
+</resources>

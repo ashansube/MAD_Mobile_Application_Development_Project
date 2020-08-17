@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="5dp "
+    tools:ignore="ExtraText">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+    <TextView
+        android:id="@+id/con_det"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/con_det"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/edit_con_det"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/edit_con_det"
+        android:padding="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/colorPrimary"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/gig_des"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/gig_des"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/edit_gig_des"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/edit_gig_des"
+        android:padding="8dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22dp" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/del_in"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/del_in"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/edit_del_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/edit_del_in"
+        android:padding="8dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22dp" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+    <TextView
+        android:id="@+id/del_in"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/del_in_edit"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/edit_start_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/start_price"
+        android:padding="8dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22dp" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+    <Button
+        android:id="@+id/button_edit"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="102dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/button1"
+        android:text="@string/fin_edit"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginStart="50dp"/>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+
