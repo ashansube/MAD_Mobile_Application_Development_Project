@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gig Added Succeffully</string>
+    <string name="textview1">Gig Added Successfully</string>
+    <string name="button">View Gig</string>
+</resources>
