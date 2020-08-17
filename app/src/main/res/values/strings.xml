@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Create Gid 3</string>
+    <string name="name1">Add Gig Description</string>
+    <string name="name2">Add Delivery Information</string>
+    <string name="name3">Add Pricing Information</string>
+    <string name="button_last">Add Gig</string>
+</resources>
