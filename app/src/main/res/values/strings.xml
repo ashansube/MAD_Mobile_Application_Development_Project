@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View Gid For Customer</string>
+    <string name="textview1">Gig Title</string>
+    <string name="gigtitle">Script Writing</string>
+    <string name="textview2">Gig Description</string>
+    <string name="gigdes">I will suppose to write any kind of scripts for you.
+        That means teledrama scripts. Movie scripts, stage drama scripts</string>
+    <string name="textview3">Delivery Information</string>
+    <string name="gigdel">I will deliver this final project through this app</string>
+    <string name="button1">Next</string>
+</resources>

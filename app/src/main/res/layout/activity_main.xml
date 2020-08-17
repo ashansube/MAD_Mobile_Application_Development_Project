@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="5dp "
+    tools:ignore="ExtraText">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        app:srcCompat="@drawable/view_gig_cus" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        app:srcCompat="@drawable/cplus" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/textview1"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/gig_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/gigtitle"
+        android:padding="8dp"
+        android:textSize="18dp" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/textview2"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+    <EditText
+        android:id="@+id/gig_des"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/gigdes"
+        android:padding="8dp"
+        android:textSize="18dp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:text="@string/textview3"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="18dp"/>
+
+    <EditText
+        android:id="@+id/gig_del"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/rounded_text"
+        android:hint="@string/gigdel"
+        android:padding="8dp"
+        android:textSize="18dp" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="398dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="160dp"
+        android:layout_height="39dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/button1"
+        android:text="@string/button1"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"/>
+
+</LinearLayout>
